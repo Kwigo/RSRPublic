@@ -6,7 +6,7 @@ To download, click on Run Sushi, Run!.zip and on the next page click on "view ra
 
 ## Controls
 SPACE to jump/double jump\
-CTRL to dash\
+CTRL to dash
 
 ## What is Run Suhsi, Run! ?
 RSR! is a runner game, where the main character moves automatically from left to right.\
